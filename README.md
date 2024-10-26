@@ -1,1 +1,1 @@
-# JGourdeau.github.io
+# jgourdeau.github.io
